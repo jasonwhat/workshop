@@ -19,9 +19,9 @@ module.exports = {
         * client_trusted_domains. To do this see
         * https://api.ghost.org/docs/ajax-calls-from-an-external-website
         */
-        apiUrl: `https://demo.ghost.io/`,
+        apiUrl: `https://workshop-2.ghost.io/`,
         clientId: `ghost-frontend`,
-        clientSecret: `f84a07a72b17`,
+        clientSecret: `25b50c709d36`,
       },
     },
     `gatsby-transformer-sharp`,
