@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Ghost Blog',
-    author: 'Daniel Sutton',
-    description: 'A starter blog demonstrating how Gatsby can be used as a Ghost Blog frontend.',
+    title: 'Workshop',
+    author: 'Corelab',
+    description: 'A new beginning',
     excerptMaxLength: 250,
-    siteUrl: 'http://starter-ghost-blog.surge.sh'
+    siteUrl: 'https://ecstatic-galileo-a840d4.netlify.com/'
   },
   pathPrefix: '/',
   plugins: [
