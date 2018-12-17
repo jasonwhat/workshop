@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Workshop',
-    author: 'Corelab',
+    title: 'Archive',
+    author: 'Jason',
     description: 'A new beginning',
     excerptMaxLength: 250,
     siteUrl: 'https://ecstatic-galileo-a840d4.netlify.com/'
